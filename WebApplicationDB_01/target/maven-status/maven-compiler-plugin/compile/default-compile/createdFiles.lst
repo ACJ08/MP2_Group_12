@@ -1,0 +1,3 @@
+com\mycompany\webapplicationdb\resources\JavaEE8Resource.class
+com\mycompany\webapplicationdb\JAXRSConfiguration.class
+controllers\ConnectDatabase.class
